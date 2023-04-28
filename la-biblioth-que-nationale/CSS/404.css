@@ -1,0 +1,15 @@
+.btnerr{
+    display: flex;
+    text-align: center;
+    margin-bottom: 30%;
+    font-size:4vh;
+    color: #67d7db;
+    background-color: white;
+    border-radius: 20px;
+    border-color: pink;
+}
+.texterr{
+    font-size:2vh;
+    margin-bottom: 5%;
+    color : #528081 ;
+}

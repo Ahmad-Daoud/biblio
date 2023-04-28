@@ -1,0 +1,43 @@
+.btnchoice{
+    border-radius: 5px;
+    border: solid 3px var(--secondary-color);
+    padding: 10px;
+    color: var(--main-color);
+    text-align: center;
+}
+.displaybookscss{
+    width: 50%;
+    margin-left: 25% !important;
+}
+.idtable{
+    text-align: center;
+    color: var(--main-color);
+    font-family: 'Fjalla One';
+}
+.nametable {
+    text-align: center;
+    font-family:'Teko';
+    font-size: 20px;
+    color: red;
+    text-decoration: underline;
+}
+.authortable{
+    text-align: center;
+    font-family: 'Rowdies';
+}
+.yeartable{
+    text-align: center;
+    
+}
+.firstbtn{
+    margin-left: 35%;
+}
+.specword {
+    color : red;
+    font-weight: 800px;
+    text-decoration: underline;
+}
+.sommairedesc{
+    height: 200px;
+    width : 500px;
+}

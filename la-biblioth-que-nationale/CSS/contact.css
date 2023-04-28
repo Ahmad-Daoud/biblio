@@ -1,0 +1,14 @@
+.icons{
+    color: var(--main-color);
+    font-size: 10vh;
+    text-align: center;
+}
+.firsttext{
+    color: var(--main-color);
+    font-size: 4vh;
+    text-align: center;
+}
+.secondtext {
+    color: var(--secondary-color);
+    text-align: center;
+}

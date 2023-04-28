@@ -1,0 +1,8 @@
+.texteasso  {
+    font-size: 3vh;
+    color: var(--secondary-color);
+    font-family: 'Josefin Sans';
+}
+.midgalimg{
+    object-fit: fill;
+}
