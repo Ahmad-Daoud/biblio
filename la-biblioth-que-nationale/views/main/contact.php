@@ -11,11 +11,11 @@
     <!-- stylesheet boostrap 5.2.3 -->
 
     <!-- stylesheet utilisée uniquement dans la page contact.php -->
-    <link rel="stylesheet" href="/xampp/Labibliothèquenationale/la-biblioth-que-nationale/CSS/contact.css">
+    <link rel="stylesheet" href="../../CSS/contact.css">
     <!-- stylesheet utilisée uniquement dans la page contact.php -->
 
     <!-- stylesheet globale pour toute les pages -->
-    <link rel="stylesheet" href="/xampp/Labibliothèquenationale/la-biblioth-que-nationale/CSS/global.css">
+    <link rel="stylesheet" href="../../CSS/global.css">
     <!-- stylesheet globale pour toute les pages -->
 
     <!-- Polices google font API -->
