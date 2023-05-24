@@ -11,11 +11,11 @@
     <!-- stylesheet boostrap 5.2.3 -->
 
     <!-- stylesheet utilisée uniquement dans la page delete.php -->
-    <link rel="stylesheet" href="/xampp/Labibliothèquenationale/la-biblioth-que-nationale/CSS/delete.css">
+    <link rel="stylesheet" href="../../CSS/delete.css">
     <!-- stylesheet utilisée uniquement dans la page delete.php -->
 
     <!-- stylesheet globale pour toute les pages -->
-    <link rel="stylesheet" href="/xampp/Labibliothèquenationale/la-biblioth-que-nationale/CSS/global.css">
+    <link rel="stylesheet" href="../../CSS/global.css">
     <!-- stylesheet globale pour toute les pages -->
 
     <!-- Polices google font API -->
