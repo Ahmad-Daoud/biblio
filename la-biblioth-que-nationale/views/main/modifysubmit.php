@@ -11,11 +11,11 @@
     <!-- stylesheet boostrap 5.2.3 -->
 
     <!-- stylesheet utilisée uniquement dans la page modifier.php -->
-    <link rel="stylesheet" href="../../CSS/modifier.css">
+    <link rel="stylesheet" href="./../../CSS/modifier.css">
     <!-- stylesheet utilisée uniquement dans la page modifier.php -->
 
     <!-- stylesheet globale pour toute les pages -->
-    <link rel="stylesheet" href="../../CSS/global.css">
+    <link rel="stylesheet" href="./../../CSS/global.css">
     <!-- stylesheet globale pour toute les pages -->
 
     <!-- Polices google font API -->
